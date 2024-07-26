@@ -157,7 +157,7 @@ padding-bottom: 30px;
     section{
         display: flex;
         flex-direction: row;
-        margin-left: 5vw;
+       
     
     }
     
@@ -173,9 +173,7 @@ padding-bottom: 30px;
         background-color: white;
         width:160px;
         padding-right: 10vw;
-        align-items: center;
-        margin-left: auto;
-        margin-right: auto ;
+        
 padding-left: 3vw;
 padding-top: 30px;
 padding-bottom: 32px;
