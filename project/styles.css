@@ -157,8 +157,7 @@ padding-bottom: 30px;
     section{
         display: flex;
         flex-direction: row;
-       
-    
+       margin: 6vw 0vw 0 23vw;
     }
     
     section img{
